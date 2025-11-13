@@ -24,20 +24,6 @@ Ebiose is a **distributed artificial intelligence factory**, an open source proj
 > "AI is set to reshape our world, but who gets to decide its form and for whose benefit? Instead of a future dictated by a few tech giants, what if we could build AI collectively and openly?"
 
 --- 
-<div align="center">
-
-### ⏰ _July 2, 2025_ – **Ebiose** just hit **“Show HN”** 🚀 
-
-We just posted **Ebiose** in the “Show HN” section.  
-If you believe in an open and democratic AI, your support there is critical:
-
-👉 Open the “Show HN” feed → <a href="https://news.ycombinator.com/shownew">[news.ycombinator.com/shownew](https://news.ycombinator.com/shownew)</a>  
-👉 Find the post **“Show HN: Ebiose – A Darwin‑Style Playground for Self‑Evolving AI Agents”**  
-👉 Smash the ▲ up‑vote and drop a comment or question  
-
-*Thank you for helping us kick‑start the community!*
-
-</div>
 
 **👀 Must read 👀**
 
